@@ -1,0 +1,9 @@
+autogen-agentchat
+ipykernel
+autogen-ext[openai]
+dotenv
+autogen_core
+tiktoken
+openai
+autogen-ext[docker]
+autogen.codein
