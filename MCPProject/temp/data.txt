@@ -1,0 +1,4 @@
+Navigate to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+            and write 2 test cases.
+            1. For login with valid credentials (Username: Admin, Password: admin123)
+            2. Validate My Info page.
